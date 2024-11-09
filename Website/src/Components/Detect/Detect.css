@@ -1,0 +1,76 @@
+/* src/components/FacialDetectionPage.css */
+.container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  h3{
+    color : white;
+  }
+  .header-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  .main-content {
+    text-align: center;
+  }
+  
+  .main-content h1 {
+    font-size: 2rem;
+    color: #14412c; /* Pink color similar to the one in your image */
+    margin-bottom: 10px;
+  }
+  
+  .main-content p {
+    font-size: 1rem;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .metric {
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    background-color: #14412c;
+  }
+  
+  .metric .number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: #fe956f;
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .metric h3 {
+    font-size: 1.2rem;
+    margin: 5px 0;
+  }
+  
+  .metric p {
+    font-size: 0.9rem;
+    color: #fe956f;
+  }
+  

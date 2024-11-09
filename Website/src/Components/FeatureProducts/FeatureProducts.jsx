@@ -20,9 +20,9 @@ const Products = () => {
             <div className={css.products}>
                 <ul className={css.menu}>
                     <li onClick={() => setMenuProducts(FeatureProductsData)}>All</li>
-                    <li onClick={() => filter("skin care")}>Skin Care</li>
-                    <li onClick={() => filter("conditioner")}>Conditioners</li>
-                    <li onClick={() => filter("foundation")}>Foundations</li>
+                    <li onClick={() => filter("skin care")}>Skin Remedies</li>
+                    <li onClick={() => filter("conditioner")}>Skin Remedies</li>
+                    <li onClick={() => filter("foundation")}>Skin Remedies</li>
                 </ul>
                 <div className={css.list} ref={parent}>
                     {menuProducts.map((product, idx) => (

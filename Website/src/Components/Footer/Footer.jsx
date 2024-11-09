@@ -58,6 +58,7 @@ const Footer = () => {
             <div className={css.copyRight}>
                 <span>Copyright @2022 by Amazon, Inc.</span>
                 <span>All rights reserved</span>
+                <span className={css.copy}>made with 💚 by Team TechNamo</span>
             </div>
         </div>
     );

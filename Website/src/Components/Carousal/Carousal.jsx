@@ -55,7 +55,7 @@ export default function App() {
 
   return (
     <div className="Appsic">
-      <h1>View Pictures</h1>
+      <h1>Here Are some skin Related Issues!</h1>
       <Carousel
         className="crsl"
         autoPlay

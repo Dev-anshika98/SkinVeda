@@ -10,9 +10,9 @@ const Hero = () => {
 
     const transition = { duration: 3, type: "spring" };
 
-    // Handler function to open the URL
+    // Handler function to open the new URL
     const handleChatClick = () => {
-        window.open('http://192.168.217.183:8501/', '_blank'); // Opens the URL in a new tab
+        window.open('https://ayuchatbot.streamlit.app/', '_blank'); // Updated to open the new URL
     };
 
     return (
@@ -48,7 +48,7 @@ const Hero = () => {
                     whileInView={{ right: "0%" }}
                     transition={transition}
                     className={css.cart2}
-                    onClick={handleChatClick} // Added onClick event here
+                    onClick={handleChatClick} // Trigger URL change here
                     style={{ cursor: "pointer" }} // Optional: changes cursor to pointer for better UX
                 >
                     <RiChatSmile2Fill />

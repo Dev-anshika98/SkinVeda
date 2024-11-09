@@ -6,13 +6,17 @@ import Products from '../Components/FeatureProducts/FeatureProducts';
 
 import Virtual from '../Components/Virtual/Virtual';
 import Carousal from '../Components/Carousal/Carousal'
+import Detect from '../Components/Detect/Detect';
 
 function App() {
     return (
         <div className="App">
             <Header />
             <Hero />  
+            
             <Carousal/>
+            <Detect/>
+
             <Virtual />
             <Products />
             {/* <Testimonials /> */}

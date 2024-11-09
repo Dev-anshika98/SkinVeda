@@ -7,51 +7,57 @@ import img6 from '../assets/Products/6.png'
 import img7 from '../assets/Products/7.png'
 import img8 from '../assets/Products/8.png'
 
+import img9 from '../assets/Products/9.png'
+import img10 from '../assets/Products/10.png'
+import img11 from '../assets/Products/11.png'
+import img12 from '../assets/Products/12.png'
+import img13 from '../assets/Products/13.png'
+
 
 export const FeatureProductsData = [{
-    name: 'SKIN',
+    name: 'TUMERIC',
     detail: 'Super Skin Care',
     price: '15',
     img: img1,
     type: 'skin care',
 },
 {
-    name: 'SKIN',
+    name: 'COCONUT OIL',
     detail: 'Super Skin Care',
     price: '30',
-    img: img2,
+    img: img9,
     type: 'skin care',
 },
 {
-    name: 'NATURE',
+    name: 'HONEY',
     detail: 'Super Skin Care',
     price: '25',
     img: img3,
     type: 'skin care',
 },
 {
-    name: 'Foundation',
+    name: 'ALOVERA',
     detail: 'Super Skin Care',
     price: '25',
     img: img4,
     type: 'foundation',
 },
 {
-    name: 'CONDITIONER',
+    name: 'CURD',
     detail: 'Super Skin Care',
     price: '30',
     img: img5,
     type: 'conditioner',
 },
 {
-    name: 'NATURE',
+    name: 'BESAN',
     detail: 'Super Skin Care',
     price: '25',
     img: img6,
     type: 'skin care',
 },
 {
-    name: "CONDITIONER",
+    name: "GINGER PASTE",
     details: 'Best Conditioner',
     price: '30',
     img: img7,
@@ -59,10 +65,46 @@ export const FeatureProductsData = [{
 }
     ,
 {
-    name: "CONDITIONER",
+    name: "MULTANI MITTI",
     details: 'Best Conditioner',
     price: '30',
     img: img8,
+    type: 'conditioner'
+},
+
+{
+    name: "HALDI",
+    details: 'Best Conditioner',
+    price: '30',
+    img: img2,
+    type: 'conditioner'
+},
+{
+    name: "HONEY",
+    details: 'Best Conditioner',
+    price: '30',
+    img: img10,
+    type: 'conditioner'
+},
+{
+    name: "AVACADO",
+    details: 'Best Conditioner',
+    price: '30',
+    img: img11,
+    type: 'conditioner'
+},
+{
+    name: "REMIDIES",
+    details: 'Best Conditioner',
+    price: '30',
+    img: img12,
+    type: 'conditioner'
+},
+{
+    name: "REMIDIES",
+    details: 'Best Conditioner',
+    price: '30',
+    img: img13,
     type: 'conditioner'
 },
 
