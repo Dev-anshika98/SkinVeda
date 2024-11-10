@@ -36,6 +36,74 @@ The app's revenue model could include a freemium model with a basic free version
 
 
 ### Techstack
+# Ayurvedic Chatbot - Face Care Specialist
+
+There is a simple **Ayurvedic Chatbot** application built using **Streamlit** and **Google Gemini** (via the `google.generativeai` library). The bot provides advice on Ayurvedic remedies for face-related issues.
+
+## Features
+
+- **Ayurvedic Face Care Advice**: The bot offers personalized recommendations based on user queries about face care using Ayurvedic principles.
+- **Interactive Chat**: Users can interact with the bot through an easy-to-use interface.
+- **Persistent Chat History**: Previous conversations are saved and displayed during the session.
+
+## Tech Stack
+
+- **Streamlit**: A Python framework for building interactive web applications.
+- **Google Gemini (Generative AI)**: Used to generate content-based responses from the chatbot.
+- **dotenv**: Used for loading environment variables (e.g., Google API keys).
+
+## Setup Instructions
+
+### Prerequisites
+
+- Python 3.10.1
+- Streamlit
+- Google Cloud API Key
+
+### Installation
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/ashutoshbins/ayurvedic-chatbot.git
+    cd ayurvedic-chatbot
+    ```
+
+2. Install the required Python packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Set up your Google API Key:
+    - Create a `.env` file in the root of the project.
+    - Add the following line to `.env`:
+      ```bash
+      GOOGLE_API_KEY=your_google_api_key_here
+      ```
+
+4. Run the Streamlit app:
+    ```bash
+    streamlit run app.py
+    ```
+
+5. Open the app in your web browser. The chatbot will be live and ready to assist you with face care-related Ayurvedic advice.
+
+## Usage
+
+- Type your question related to face care in the input box.
+- The bot will respond with Ayurvedic remedies or suggestions.
+- Previous chats are saved and can be viewed in the same session.
+
+## Contributing
+
+If you want to contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+
+
  
 
 
