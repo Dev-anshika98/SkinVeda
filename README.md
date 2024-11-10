@@ -1,7 +1,7 @@
-# EduQuestAR
+# SkinVeda
 
 
-![Screenshot 2024-01-20 191452](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/76708ff1-587d-44db-9140-ff975c1403d0)
+
 
 
 ## Problem Statement
@@ -54,14 +54,6 @@ This application allows users to upload an image to detect common skin condition
 - **dotenv**: For securely loading environment variables like the Google API key.
 
 ## Visualization through AR
-![Screenshot_20240119_234355_EduquestAR](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/b0c148a2-b627-47e7-92dc-0ea68dd6b71c)
-
-
-![3](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/f6a8fd97-445f-483d-988e-81bf1d52e7f2)
-
-
-![Screenshot 2024-01-19 224558](https://github.com/Dev-anshika98/EduQuestAR-NSUT/assets/123721290/66f78785-5fef-46c1-8859-4f09cf7bf8da)
-
 
 
 
@@ -76,4 +68,3 @@ We have maintained a single branch  two branches `main` in which webpage directo
 
 ### Demo Video and Sample Images
 c
-[Demo videos, application and images of the product](  https://youtu.be/HJnAZqbCr5U?si=Cap6uEpytM6iDVx_)
