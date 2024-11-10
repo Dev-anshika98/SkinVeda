@@ -1,8 +1,5 @@
 # SkinVeda
-
-
-
-
+## Team - TechNamo
 
 ## Problem Statement
 
@@ -53,18 +50,38 @@ This application allows users to upload an image to detect common skin condition
 - **NumPy**: For numerical operations on image data.
 - **dotenv**: For securely loading environment variables like the Google API key.
 
-## Visualization through AR
+# Here Are some Images of project
+## Website
+![Screenshot 2024-11-10 113549](https://github.com/user-attachments/assets/227c248f-b373-4c82-a332-da03bda06f70)
 
 
 
 
+![Screenshot 2024-11-10 113557](https://github.com/user-attachments/assets/b5cba22a-cb31-4870-bd06-b7ca688ade89)
 
 
+![Screenshot 2024-11-10 113604](https://github.com/user-attachments/assets/b87057df-13e5-43da-bec7-8e3d5fd5097e)
+
+
+![Screenshot 2024-11-10 113621](https://github.com/user-attachments/assets/218928c0-5842-43f1-a051-3933bd6b54cb)
+
+
+Android-APP
+
+![m1](https://github.com/user-attachments/assets/5b5650b1-9024-48f9-ba7e-b6c31fd73e34)
+
+![m2](https://github.com/user-attachments/assets/be362a8e-b859-4736-ac59-3171d7958d43)
+
+![m3](https://github.com/user-attachments/assets/cb020322-f3aa-4191-8364-c135cc7185e0)
+![m4](https://github.com/user-attachments/assets/3a5792a8-d237-46ae-ad56-1b9fced15301)![m5](https://github.com/user-attachments/assets/d11fa233-ab68-42c7-911b-676a4927b9bb)
 
 
 ## Branch Structure
 
-We have maintained a single branch  two branches `main` in which webpage directory is available  and `EduQuestApp` in which anodroid app is available 
+We have maintained a single branch  two branches `master` in which webpage directory is available  and `SkinVeda` in which anodroid app is available 
 
 ### Demo Video and Sample Images
 c
+https://youtu.be/jO7_19rNYtM
+
+ppt -- https://drive.google.com/file/d/1c4DHqOLwqUtw5AFkodNriNusnIWsZrZO/view?usp=sharing
