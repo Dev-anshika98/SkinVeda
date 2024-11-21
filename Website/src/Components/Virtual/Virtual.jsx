@@ -13,7 +13,7 @@ const Virtual = () => {
                 <span>Never Use the wrong product</span>
                 <span>Try The Home Remedies First !</span>
                 <img src={Shade} alt="" />
-                <a href="https://ayuchatbot.streamlit.app/" target="_blank" rel="noopener noreferrer">
+                <a href="https://ayuvision.streamlit.app/" target="_blank" rel="noopener noreferrer">
                     <button className={css.tryOnButton}>Try On Now</button>
                 </a>
             </div>
