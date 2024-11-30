@@ -12,7 +12,7 @@ const Hero = () => {
 
     // Handler function to open the new URL
     const handleChatClick = () => {
-        window.open('https://ayuchatbot.streamlit.app/', '_blank'); // Updated to open the new URL
+        window.open('https://ayurvedic-chhatbot.streamlit.app/', '_blank'); // Updated to open the new URL
     };
 
     return (
